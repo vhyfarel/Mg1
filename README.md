@@ -8,7 +8,7 @@ This README would normally document whatever steps are necessary to get your app
 * Version
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-~ strike ~ through 
+~Strike~ through 
 
 ### How do I get set up? ###
 
