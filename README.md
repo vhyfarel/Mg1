@@ -16,10 +16,11 @@ This README would normally document whatever steps are necessary to get your app
 * Database configuration
 * How to run tests
 * Deployment instructions
+* more stuff and things
 
 ### Contribution guidelines ###
 
-* Writing tests
+* Writing and using tests
 * Code review
 * Other guidelines
 
