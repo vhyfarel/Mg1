@@ -22,7 +22,8 @@ This README would normally document whatever steps are necessary to get your app
 
 * Writing and using tests
 * Code review
-* Other guidelines
+* Other guidelines 
+(more stuff to come)
 
 ### Who do I talk to? ###
 
