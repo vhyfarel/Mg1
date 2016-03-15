@@ -12,4 +12,7 @@ Please do not edit above this line -->
     <blockquote>very influential stuff</blockquote>
     <cite>very important person</cite>
 </div>
-make a commit 
+<div class="quote">
+    <blockquote>Anonymous quote</blockquote>
+    <cite>We don't know</cite>
+</div> 
