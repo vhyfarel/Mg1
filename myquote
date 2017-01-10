@@ -13,6 +13,10 @@ Please do not edit above this line -->
     <cite>very important person</cite>
 </div>
 <div class="quote">
+    <blockquote>very influential stuff</blockquote>
+    <cite>very important person</cite>
+</div>
+<div class="quote">
     <blockquote>Anonymous quote</blockquote>
     <cite>We don't know</cite>
 </div> 
