@@ -5,7 +5,7 @@
   </ac:structured-macro>
 </p>
 <h2>Overview</h2>
-<p>The snippets endpoint allows you many ways to create and retrieve information about snippets in Bitbucket.</p>
+<p>The snippets endpoint, allows you many ways to create and retrieve information about snippets in Bitbucket.</p>
 <p>Snippets can be either public (visible to anyone on Bitbucket, as well as anonymous users), or private (visible only to the owner, creator and members of the team in case the snippet is owned by a team).</p>
 <h3>Permissions</h3>
 <p>Snippets can be either public or private as shown in the following table:</p>
