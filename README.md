@@ -4,13 +4,13 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
+* What's this repository for: This repository is used by the Information Experience team to work with tutorials and other documentation.
+* Version: This work is not versioned. 
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
 
-* Summary of set up
+* You can visit 
 * Confi
 
 ### Contribution guidelines ###
